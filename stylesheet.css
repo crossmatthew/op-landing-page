@@ -106,6 +106,7 @@ footer,
 }
 
 .image-box {
+  /* background-color: #3882f6; */
   height: 152px;
   width: 152px;
   border-radius: 1em;
@@ -113,6 +114,10 @@ footer,
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.image-box img {
+  border-radius: 1em;
 }
 
 .quote-section {
