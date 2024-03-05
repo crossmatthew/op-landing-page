@@ -38,6 +38,10 @@ footer {
   background-color: gray;
 }
 
+.subtext button {
+  border: none;
+}
+
 header {
   display: flex;
   flex-wrap: wrap;
