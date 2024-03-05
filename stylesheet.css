@@ -106,8 +106,6 @@ footer,
 }
 
 .image-box {
-  height: 152px;
-  width: 152px;
   border-radius: 1em;
   border: 4px solid #3882f6;
   display: flex;
