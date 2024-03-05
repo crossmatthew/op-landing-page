@@ -38,6 +38,10 @@ footer {
   background-color: gray;
 }
 
+.subtext-image img {
+  max-width: 100%;
+}
+
 .subtext button {
   border: none;
 }
