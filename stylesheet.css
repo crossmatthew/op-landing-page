@@ -33,13 +33,10 @@ footer {
 }
 
 .subtext-image {
+  max-width: 100%;
   width: 530px;
   height: 220px;
   background-color: gray;
-}
-
-.subtext-image img {
-  max-width: 100%;
 }
 
 .subtext button {
